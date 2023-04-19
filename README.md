@@ -1,8 +1,6 @@
-HI BUDDY 🙌\
-HELLO I AM AYUSH BANSAL\
-🔭 I’m currently working on Statistics Of Data Science.\
-👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science , Machine Learning.\
-🤔 I’m Currently Learning Numpy Arrays in Python.
+ I'm Ayush Bansal, a data science enthusiast with a focus on statistical analysis.
+ I enjoy collaborating on projects involving Python core, object-oriented programming, and machine learning.
+ Let's connect and create something amazing together! 🔬👨‍💻🚀.
 <!---
 Ayushbansal121/Ayushbansal121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

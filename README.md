@@ -1,4 +1,5 @@
- I'm Ayush Bansal, a data science enthusiast with a focus on statistical analysis.\
+ ##I'm Ayush Bansal
+ a data science enthusiast with a focus on statistical analysis.\
  I enjoy collaborating on projects involving Python core, object-oriented programming, and machine learning.\
  Let's connect and create something amazing together! 🔬👨‍💻🚀.
 <!---

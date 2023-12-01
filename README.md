@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Bansal</h1>
-<h3 align="center">A data science enthusiast with a focus on statistical analysis. I enjoy collaborating on projects involving Python core, object-oriented programming, and machine learning. Let's connect and create something amazing together! 🔬👨‍💻🚀.</h3>
+<h3 align="center">A data  enthusiast with a focus on statistical analysis. I enjoy collaborating on projects involving Python core, object-oriented programming. Let's connect and create something amazing together! 🔬👨‍💻🚀.</h3>
 
 - 💬 Ask me about **Python,Tableau,Numpy,SQL,Pandas,Power-BI,MS_OFFICE**
 
